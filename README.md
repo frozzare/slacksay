@@ -1,6 +1,6 @@
 # slacksay
 
-Send message to Slack channel as a user (right access token needed).
+Send message to Slack channel as a user (right access token needed, read more [here](https://api.slack.com/methods/chat.postMessage#authorship)).
 
 ## Installation
 
